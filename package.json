@@ -1,6 +1,6 @@
 {
   "name": "rune-stamp-sdk",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "TypeScript SDK for rune-style badge/stamp issuance on the Stacks blockchain — mint, verify, enumerate.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
